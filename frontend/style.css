@@ -1,0 +1,9 @@
+[data-testid="stHeader"]::before {
+  content: 'Retrieval-Augmented Generation';
+  font-size: 35px; /* Adjust the font size as needed */
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}

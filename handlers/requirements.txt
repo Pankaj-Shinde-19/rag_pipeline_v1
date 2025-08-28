@@ -1,0 +1,4 @@
+qdrant-client
+watchdog
+sentence-transformers
+pdfplumber
